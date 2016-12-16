@@ -1,0 +1,508 @@
+{
+  "ID": "4ac50ef1-c794-4479-bf57-01e84c9bd47e",
+  "Version": "3.10.0.0",
+  "Name": "CoverScene",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 216,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 639.8986,
+              "Y": 358.8304
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4999,
+              "Y": 0.4984
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "LeftMargin": -0.1014,
+            "RightMargin": 0.1013,
+            "TopMargin": 1.1696,
+            "BottomMargin": -1.1696,
+            "Tag": 217,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "CoverSecne/loginBg.jpg",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 770,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 645.9997,
+                  "Y": 352.6184
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5047,
+                  "Y": 0.4897
+                },
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.0
+                },
+                "LeftMargin": 5.9997,
+                "RightMargin": -5.9998,
+                "TopMargin": 7.3816,
+                "BottomMargin": -7.3816,
+                "Tag": 219,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "CoverSecne/logo2.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.7491,
+                      "ScaleY": 0.4511
+                    },
+                    "Position": {
+                      "X": 751.5282,
+                      "Y": 434.9661
+                    },
+                    "Scale": {
+                      "ScaleX": 1.5073,
+                      "ScaleY": 1.0542
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5871,
+                      "Y": 0.6041
+                    },
+                    "PreSize": {
+                      "X": 0.3633,
+                      "Y": 0.5847
+                    },
+                    "LeftMargin": 403.1967,
+                    "RightMargin": 411.8033,
+                    "TopMargin": 53.947,
+                    "BottomMargin": 245.053,
+                    "Tag": 220,
+                    "ActionTag": 1962584959,
+                    "Size": {
+                      "X": 465.0,
+                      "Y": 421.0
+                    },
+                    "Name": "logo",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "CoverSecne/message.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 1098.9802,
+                      "Y": 640.8618
+                    },
+                    "Scale": {
+                      "ScaleX": 2.3016,
+                      "ScaleY": 1.2606
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.8586,
+                      "Y": 0.8901
+                    },
+                    "PreSize": {
+                      "X": 0.068,
+                      "Y": 0.1097
+                    },
+                    "LeftMargin": 1055.4802,
+                    "RightMargin": 137.5198,
+                    "TopMargin": 39.6382,
+                    "BottomMargin": 601.3618,
+                    "Tag": 221,
+                    "ActionTag": -915800957,
+                    "Size": {
+                      "X": 87.0,
+                      "Y": 79.0
+                    },
+                    "Name": "message",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "CoverSecne/cancelBtnBg.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 599.6808,
+                      "Y": 167.2925
+                    },
+                    "Scale": {
+                      "ScaleX": 1.6192,
+                      "ScaleY": 1.0452
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4685,
+                      "Y": 0.2324
+                    },
+                    "PreSize": {
+                      "X": 0.2078,
+                      "Y": 0.1583
+                    },
+                    "LeftMargin": 466.6808,
+                    "RightMargin": 547.3192,
+                    "TopMargin": 495.7075,
+                    "BottomMargin": 110.2925,
+                    "Tag": 223,
+                    "Children": [
+                      {
+                        "FontSize": 22,
+                        "LabelText": "微信登录",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "CoverSecne/DFYuanW7-GB2312.ttf",
+                          "Plist": ""
+                        },
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 145.9784,
+                          "Y": 53.5071
+                        },
+                        "Scale": {
+                          "ScaleX": 1.622,
+                          "ScaleY": 2.4989
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.5488,
+                          "Y": 0.4694
+                        },
+                        "PreSize": {
+                          "X": 0.3421,
+                          "Y": 0.193
+                        },
+                        "LeftMargin": 100.4784,
+                        "RightMargin": 74.5216,
+                        "TopMargin": 49.4929,
+                        "BottomMargin": 42.5071,
+                        "Tag": 224,
+                        "ActionTag": -798497429,
+                        "Size": {
+                          "X": 91.0,
+                          "Y": 22.0
+                        },
+                        "Name": "wx_login_text",
+                        "ctype": "TextObjectData"
+                      }
+                    ],
+                    "ActionTag": 667533147,
+                    "Size": {
+                      "X": 266.0,
+                      "Y": 114.0
+                    },
+                    "Name": "wx_login_button",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FontSize": 24,
+                    "LabelText": "1.0.1",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "CoverSecne/Consolas.ttf",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "ShadowEnabled": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.6838
+                    },
+                    "Position": {
+                      "X": 1160.7538,
+                      "Y": 48.9007
+                    },
+                    "Scale": {
+                      "ScaleX": 1.8393,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.9068,
+                      "Y": 0.0679
+                    },
+                    "PreSize": {
+                      "X": 0.0523,
+                      "Y": 0.0389
+                    },
+                    "LeftMargin": 1127.2538,
+                    "RightMargin": 85.7462,
+                    "TopMargin": 662.2457,
+                    "BottomMargin": 29.7543,
+                    "Tag": 225,
+                    "ActionTag": 508286244,
+                    "Size": {
+                      "X": 67.0,
+                      "Y": 28.0
+                    },
+                    "Name": "version_text",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "CheckedState": true,
+                    "NormalBackFileData": {
+                      "Type": "Default",
+                      "Path": "Default/CheckBox_Normal.png",
+                      "Plist": ""
+                    },
+                    "PressedBackFileData": {
+                      "Type": "Default",
+                      "Path": "Default/CheckBox_Press.png",
+                      "Plist": ""
+                    },
+                    "DisableBackFileData": {
+                      "Type": "Default",
+                      "Path": "Default/CheckBox_Disable.png",
+                      "Plist": ""
+                    },
+                    "NodeNormalFileData": {
+                      "Type": "Default",
+                      "Path": "Default/CheckBoxNode_Normal.png",
+                      "Plist": ""
+                    },
+                    "NodeDisableFileData": {
+                      "Type": "Default",
+                      "Path": "Default/CheckBoxNode_Disable.png",
+                      "Plist": ""
+                    },
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.4812,
+                      "ScaleY": 0.2682
+                    },
+                    "Position": {
+                      "X": 408.69,
+                      "Y": 48.75
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 0.7426
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.3193,
+                      "Y": 0.0677
+                    },
+                    "PreSize": {
+                      "X": 0.0313,
+                      "Y": 0.0556
+                    },
+                    "LeftMargin": 389.442,
+                    "RightMargin": 850.558,
+                    "TopMargin": 641.978,
+                    "BottomMargin": 38.022,
+                    "Tag": 226,
+                    "ActionTag": -614649777,
+                    "Size": {
+                      "X": 40.0,
+                      "Y": 40.0
+                    },
+                    "Name": "xieyi_button",
+                    "ctype": "CheckBoxObjectData"
+                  },
+                  {
+                    "FontSize": 28,
+                    "LabelText": "同意用户使用协议",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "CoverSecne/DFYuanW7-GB2312.ttf",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 697.4822,
+                      "Y": 56.623
+                    },
+                    "Scale": {
+                      "ScaleX": 1.7813,
+                      "ScaleY": 1.6434
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5449,
+                      "Y": 0.0786
+                    },
+                    "PreSize": {
+                      "X": 0.1773,
+                      "Y": 0.0389
+                    },
+                    "LeftMargin": 583.9822,
+                    "RightMargin": 469.0178,
+                    "TopMargin": 649.377,
+                    "BottomMargin": 42.623,
+                    "Tag": 227,
+                    "ActionTag": 677068141,
+                    "Size": {
+                      "X": 227.0,
+                      "Y": 28.0
+                    },
+                    "Name": "xieyi_text",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": -977078997,
+                "Size": {
+                  "X": 1280.0,
+                  "Y": 720.0
+                },
+                "Name": "bg",
+                "ctype": "SpriteObjectData"
+              }
+            ],
+            "ActionTag": 1633953278,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "panel",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Scene",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "CoverSecne/cancelBtnBg.png",
+        "CoverSecne/Consolas.ttf",
+        "CoverSecne/DFYuanW7-GB2312.ttf",
+        "CoverSecne/loginBg.jpg",
+        "CoverSecne/logo2.png",
+        "CoverSecne/message.png",
+        "Default/CheckBox_Disable.png",
+        "Default/CheckBox_Normal.png",
+        "Default/CheckBox_Press.png",
+        "Default/CheckBoxNode_Disable.png",
+        "Default/CheckBoxNode_Normal.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Scene"
+}

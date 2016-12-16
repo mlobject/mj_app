@@ -1,0 +1,285 @@
+{
+  "ID": "29d6d56f-c529-4b6e-a926-dd7026f0df7f",
+  "Version": "3.10.0.0",
+  "Name": "Loading",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 667,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 5.3036,
+              "Y": 5.3044
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0041,
+              "Y": 0.0074
+            },
+            "PercentWidthEnable": true,
+            "PercentHeightEnable": true,
+            "PercentWidthEnabled": true,
+            "PercentHeightEnabled": true,
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "LeftMargin": 5.3036,
+            "RightMargin": -5.3036,
+            "TopMargin": -5.3044,
+            "BottomMargin": 5.3044,
+            "Tag": 668,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Loading/logoutBg.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 622.1972,
+                  "Y": 349.7243
+                },
+                "Scale": {
+                  "ScaleX": 2.4722,
+                  "ScaleY": 2.0162
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4861,
+                  "Y": 0.4857
+                },
+                "PreSize": {
+                  "X": 0.4109,
+                  "Y": 0.5292
+                },
+                "LeftMargin": 359.1972,
+                "RightMargin": 394.8028,
+                "TopMargin": 179.7758,
+                "BottomMargin": 159.2243,
+                "Tag": 669,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "Loading/jzcycle.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 268.9629,
+                      "Y": 268.2141
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5113,
+                      "Y": 0.704
+                    },
+                    "PreSize": {
+                      "X": 0.1939,
+                      "Y": 0.2677
+                    },
+                    "LeftMargin": 217.9629,
+                    "RightMargin": 206.0371,
+                    "TopMargin": 61.7859,
+                    "BottomMargin": 217.2141,
+                    "Tag": 670,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "Loading/shaizi.png",
+                          "Plist": ""
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 50.6202,
+                          "Y": 48.4758
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0352,
+                          "ScaleY": 0.9634
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.4963,
+                          "Y": 0.4753
+                        },
+                        "PreSize": {
+                          "X": 0.4902,
+                          "Y": 0.5098
+                        },
+                        "LeftMargin": 25.6202,
+                        "RightMargin": 26.3798,
+                        "TopMargin": 27.5242,
+                        "BottomMargin": 22.4758,
+                        "Tag": 672,
+                        "ActionTag": 1173726005,
+                        "Size": {
+                          "X": 50.0,
+                          "Y": 52.0
+                        },
+                        "Name": "shaizi",
+                        "ctype": "SpriteObjectData"
+                      }
+                    ],
+                    "ActionTag": -1514449210,
+                    "Size": {
+                      "X": 102.0,
+                      "Y": 102.0
+                    },
+                    "Name": "jzcycle",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FontSize": 22,
+                    "LabelText": "正在努力加载中..",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "Loading/STXingkai.ttf",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 265.955,
+                      "Y": 119.8681
+                    },
+                    "Scale": {
+                      "ScaleX": 1.7931,
+                      "ScaleY": 1.4243
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5056,
+                      "Y": 0.3146
+                    },
+                    "PreSize": {
+                      "X": 0.3194,
+                      "Y": 0.063
+                    },
+                    "LeftMargin": 181.955,
+                    "RightMargin": 176.045,
+                    "TopMargin": 249.1319,
+                    "BottomMargin": 107.8681,
+                    "Tag": 673,
+                    "ActionTag": 492541884,
+                    "Size": {
+                      "X": 168.0,
+                      "Y": 24.0
+                    },
+                    "Name": "load_text",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": 2100630829,
+                "Size": {
+                  "X": 526.0,
+                  "Y": 381.0
+                },
+                "Name": "loadBg",
+                "ctype": "SpriteObjectData"
+              }
+            ],
+            "ActionTag": -1504729430,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "panel",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Scene",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "Loading/jzcycle.png",
+        "Loading/logoutBg.png",
+        "Loading/shaizi.png",
+        "Loading/STXingkai.ttf"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Scene"
+}

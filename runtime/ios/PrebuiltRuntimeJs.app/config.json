@@ -2,8 +2,8 @@
   "init_cfg": {
     "isLandscape": true,
     "isWindowTop": false,
-    "name": "mj_app",
-    "width": 960,
+    "name": "PrebuiltRuntimeJs",
+    "width": 1136,
     "height": 640,
     "entry": "main.js",
     "consolePort": 6050,

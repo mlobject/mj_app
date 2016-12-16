@@ -1,0 +1,300 @@
+<Solution>
+  <PropertyGroup Name="my_app1" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="CoverSecne">
+          <Image Name="cancelBtnBg.png" />
+          <Image Name="cb0.png" />
+          <Image Name="cb1.png" />
+          <Image Name="chat.png" />
+          <Image Name="confirmBtn.png" />
+          <TTF Name="Consolas.ttf" />
+          <TTF Name="DFYuanW7-GB2312.ttf" />
+          <Image Name="equipupgrade_progress_.png" />
+          <Image Name="equipupgrade_progress_b.png" />
+          <Image Name="icon128_yk_logo.png" />
+          <Image Name="icon48_wx_logo.png" />
+          <Image Name="loginBg.jpg" />
+          <Image Name="loging.png" />
+          <Image Name="loginTitle.png" />
+          <Image Name="logo2.png" />
+          <Image Name="message.png" />
+          <TTF Name="STXingkai.ttf" />
+        </Folder>
+        <Folder Name="Loading">
+          <Image Name="jzcycle.png" />
+          <Image Name="logoutBg.png" />
+          <Image Name="shaizi.png" />
+          <TTF Name="STXingkai.ttf" />
+        </Folder>
+        <PlistImageFolder Image="pai.png" PListFile="pai.plist" Name=".pai_PList.Dir">
+          <PlistImageFile Name="h0s.png" Key="h0s.png" />
+          <PlistImageFile Name="h1s.png" Key="h1s.png" />
+          <PlistImageFile Name="h3s.png" Key="h3s.png" />
+          <PlistImageFile Name="p0s0.png" Key="p0s0.png" />
+          <PlistImageFile Name="p0s1.png" Key="p0s1.png" />
+          <PlistImageFile Name="p0s10.png" Key="p0s10.png" />
+          <PlistImageFile Name="p0s11.png" Key="p0s11.png" />
+          <PlistImageFile Name="p0s12.png" Key="p0s12.png" />
+          <PlistImageFile Name="p0s13.png" Key="p0s13.png" />
+          <PlistImageFile Name="p0s14.png" Key="p0s14.png" />
+          <PlistImageFile Name="p0s15.png" Key="p0s15.png" />
+          <PlistImageFile Name="p0s16.png" Key="p0s16.png" />
+          <PlistImageFile Name="p0s17.png" Key="p0s17.png" />
+          <PlistImageFile Name="p0s18.png" Key="p0s18.png" />
+          <PlistImageFile Name="p0s19.png" Key="p0s19.png" />
+          <PlistImageFile Name="p0s2.png" Key="p0s2.png" />
+          <PlistImageFile Name="p0s20.png" Key="p0s20.png" />
+          <PlistImageFile Name="p0s21.png" Key="p0s21.png" />
+          <PlistImageFile Name="p0s22.png" Key="p0s22.png" />
+          <PlistImageFile Name="p0s23.png" Key="p0s23.png" />
+          <PlistImageFile Name="p0s24.png" Key="p0s24.png" />
+          <PlistImageFile Name="p0s25.png" Key="p0s25.png" />
+          <PlistImageFile Name="p0s26.png" Key="p0s26.png" />
+          <PlistImageFile Name="p0s27.png" Key="p0s27.png" />
+          <PlistImageFile Name="p0s28.png" Key="p0s28.png" />
+          <PlistImageFile Name="p0s29.png" Key="p0s29.png" />
+          <PlistImageFile Name="p0s3.png" Key="p0s3.png" />
+          <PlistImageFile Name="p0s30.png" Key="p0s30.png" />
+          <PlistImageFile Name="p0s31.png" Key="p0s31.png" />
+          <PlistImageFile Name="p0s32.png" Key="p0s32.png" />
+          <PlistImageFile Name="p0s33.png" Key="p0s33.png" />
+          <PlistImageFile Name="p0s34.png" Key="p0s34.png" />
+          <PlistImageFile Name="p0s35.png" Key="p0s35.png" />
+          <PlistImageFile Name="p0s36.png" Key="p0s36.png" />
+          <PlistImageFile Name="p0s37.png" Key="p0s37.png" />
+          <PlistImageFile Name="p0s38.png" Key="p0s38.png" />
+          <PlistImageFile Name="p0s39.png" Key="p0s39.png" />
+          <PlistImageFile Name="p0s4.png" Key="p0s4.png" />
+          <PlistImageFile Name="p0s40.png" Key="p0s40.png" />
+          <PlistImageFile Name="p0s41.png" Key="p0s41.png" />
+          <PlistImageFile Name="p0s42.png" Key="p0s42.png" />
+          <PlistImageFile Name="p0s5.png" Key="p0s5.png" />
+          <PlistImageFile Name="p0s6.png" Key="p0s6.png" />
+          <PlistImageFile Name="p0s7.png" Key="p0s7.png" />
+          <PlistImageFile Name="p0s8.png" Key="p0s8.png" />
+          <PlistImageFile Name="p0s9.png" Key="p0s9.png" />
+          <PlistImageFile Name="p1s0.png" Key="p1s0.png" />
+          <PlistImageFile Name="p1s1.png" Key="p1s1.png" />
+          <PlistImageFile Name="p1s10.png" Key="p1s10.png" />
+          <PlistImageFile Name="p1s11.png" Key="p1s11.png" />
+          <PlistImageFile Name="p1s12.png" Key="p1s12.png" />
+          <PlistImageFile Name="p1s13.png" Key="p1s13.png" />
+          <PlistImageFile Name="p1s14.png" Key="p1s14.png" />
+          <PlistImageFile Name="p1s15.png" Key="p1s15.png" />
+          <PlistImageFile Name="p1s16.png" Key="p1s16.png" />
+          <PlistImageFile Name="p1s17.png" Key="p1s17.png" />
+          <PlistImageFile Name="p1s18.png" Key="p1s18.png" />
+          <PlistImageFile Name="p1s19.png" Key="p1s19.png" />
+          <PlistImageFile Name="p1s2.png" Key="p1s2.png" />
+          <PlistImageFile Name="p1s20.png" Key="p1s20.png" />
+          <PlistImageFile Name="p1s21.png" Key="p1s21.png" />
+          <PlistImageFile Name="p1s22.png" Key="p1s22.png" />
+          <PlistImageFile Name="p1s23.png" Key="p1s23.png" />
+          <PlistImageFile Name="p1s24.png" Key="p1s24.png" />
+          <PlistImageFile Name="p1s25.png" Key="p1s25.png" />
+          <PlistImageFile Name="p1s26.png" Key="p1s26.png" />
+          <PlistImageFile Name="p1s27.png" Key="p1s27.png" />
+          <PlistImageFile Name="p1s28.png" Key="p1s28.png" />
+          <PlistImageFile Name="p1s29.png" Key="p1s29.png" />
+          <PlistImageFile Name="p1s3.png" Key="p1s3.png" />
+          <PlistImageFile Name="p1s30.png" Key="p1s30.png" />
+          <PlistImageFile Name="p1s31.png" Key="p1s31.png" />
+          <PlistImageFile Name="p1s32.png" Key="p1s32.png" />
+          <PlistImageFile Name="p1s33.png" Key="p1s33.png" />
+          <PlistImageFile Name="p1s34.png" Key="p1s34.png" />
+          <PlistImageFile Name="p1s35.png" Key="p1s35.png" />
+          <PlistImageFile Name="p1s36.png" Key="p1s36.png" />
+          <PlistImageFile Name="p1s37.png" Key="p1s37.png" />
+          <PlistImageFile Name="p1s38.png" Key="p1s38.png" />
+          <PlistImageFile Name="p1s39.png" Key="p1s39.png" />
+          <PlistImageFile Name="p1s4.png" Key="p1s4.png" />
+          <PlistImageFile Name="p1s40.png" Key="p1s40.png" />
+          <PlistImageFile Name="p1s41.png" Key="p1s41.png" />
+          <PlistImageFile Name="p1s42.png" Key="p1s42.png" />
+          <PlistImageFile Name="p1s5.png" Key="p1s5.png" />
+          <PlistImageFile Name="p1s6.png" Key="p1s6.png" />
+          <PlistImageFile Name="p1s7.png" Key="p1s7.png" />
+          <PlistImageFile Name="p1s8.png" Key="p1s8.png" />
+          <PlistImageFile Name="p1s9.png" Key="p1s9.png" />
+          <PlistImageFile Name="p2l0.png" Key="p2l0.png" />
+          <PlistImageFile Name="p2l1.png" Key="p2l1.png" />
+          <PlistImageFile Name="p2l10.png" Key="p2l10.png" />
+          <PlistImageFile Name="p2l11.png" Key="p2l11.png" />
+          <PlistImageFile Name="p2l12.png" Key="p2l12.png" />
+          <PlistImageFile Name="p2l13.png" Key="p2l13.png" />
+          <PlistImageFile Name="p2l14.png" Key="p2l14.png" />
+          <PlistImageFile Name="p2l15.png" Key="p2l15.png" />
+          <PlistImageFile Name="p2l16.png" Key="p2l16.png" />
+          <PlistImageFile Name="p2l17.png" Key="p2l17.png" />
+          <PlistImageFile Name="p2l18.png" Key="p2l18.png" />
+          <PlistImageFile Name="p2l19.png" Key="p2l19.png" />
+          <PlistImageFile Name="p2l2.png" Key="p2l2.png" />
+          <PlistImageFile Name="p2l20.png" Key="p2l20.png" />
+          <PlistImageFile Name="p2l21.png" Key="p2l21.png" />
+          <PlistImageFile Name="p2l22.png" Key="p2l22.png" />
+          <PlistImageFile Name="p2l23.png" Key="p2l23.png" />
+          <PlistImageFile Name="p2l24.png" Key="p2l24.png" />
+          <PlistImageFile Name="p2l25.png" Key="p2l25.png" />
+          <PlistImageFile Name="p2l26.png" Key="p2l26.png" />
+          <PlistImageFile Name="p2l27.png" Key="p2l27.png" />
+          <PlistImageFile Name="p2l28.png" Key="p2l28.png" />
+          <PlistImageFile Name="p2l29.png" Key="p2l29.png" />
+          <PlistImageFile Name="p2l3.png" Key="p2l3.png" />
+          <PlistImageFile Name="p2l30.png" Key="p2l30.png" />
+          <PlistImageFile Name="p2l31.png" Key="p2l31.png" />
+          <PlistImageFile Name="p2l32.png" Key="p2l32.png" />
+          <PlistImageFile Name="p2l33.png" Key="p2l33.png" />
+          <PlistImageFile Name="p2l34.png" Key="p2l34.png" />
+          <PlistImageFile Name="p2l35.png" Key="p2l35.png" />
+          <PlistImageFile Name="p2l36.png" Key="p2l36.png" />
+          <PlistImageFile Name="p2l37.png" Key="p2l37.png" />
+          <PlistImageFile Name="p2l38.png" Key="p2l38.png" />
+          <PlistImageFile Name="p2l39.png" Key="p2l39.png" />
+          <PlistImageFile Name="p2l4.png" Key="p2l4.png" />
+          <PlistImageFile Name="p2l40.png" Key="p2l40.png" />
+          <PlistImageFile Name="p2l41.png" Key="p2l41.png" />
+          <PlistImageFile Name="p2l42.png" Key="p2l42.png" />
+          <PlistImageFile Name="p2l5.png" Key="p2l5.png" />
+          <PlistImageFile Name="p2l6.png" Key="p2l6.png" />
+          <PlistImageFile Name="p2l7.png" Key="p2l7.png" />
+          <PlistImageFile Name="p2l8.png" Key="p2l8.png" />
+          <PlistImageFile Name="p2l9.png" Key="p2l9.png" />
+          <PlistImageFile Name="p2s.png" Key="p2s.png" />
+          <PlistImageFile Name="p2s0.png" Key="p2s0.png" />
+          <PlistImageFile Name="p2s1.png" Key="p2s1.png" />
+          <PlistImageFile Name="p2s10.png" Key="p2s10.png" />
+          <PlistImageFile Name="p2s11.png" Key="p2s11.png" />
+          <PlistImageFile Name="p2s12.png" Key="p2s12.png" />
+          <PlistImageFile Name="p2s13.png" Key="p2s13.png" />
+          <PlistImageFile Name="p2s14.png" Key="p2s14.png" />
+          <PlistImageFile Name="p2s15.png" Key="p2s15.png" />
+          <PlistImageFile Name="p2s16.png" Key="p2s16.png" />
+          <PlistImageFile Name="p2s17.png" Key="p2s17.png" />
+          <PlistImageFile Name="p2s18.png" Key="p2s18.png" />
+          <PlistImageFile Name="p2s19.png" Key="p2s19.png" />
+          <PlistImageFile Name="p2s2.png" Key="p2s2.png" />
+          <PlistImageFile Name="p2s20.png" Key="p2s20.png" />
+          <PlistImageFile Name="p2s21.png" Key="p2s21.png" />
+          <PlistImageFile Name="p2s22.png" Key="p2s22.png" />
+          <PlistImageFile Name="p2s23.png" Key="p2s23.png" />
+          <PlistImageFile Name="p2s24.png" Key="p2s24.png" />
+          <PlistImageFile Name="p2s25.png" Key="p2s25.png" />
+          <PlistImageFile Name="p2s26.png" Key="p2s26.png" />
+          <PlistImageFile Name="p2s27.png" Key="p2s27.png" />
+          <PlistImageFile Name="p2s28.png" Key="p2s28.png" />
+          <PlistImageFile Name="p2s29.png" Key="p2s29.png" />
+          <PlistImageFile Name="p2s3.png" Key="p2s3.png" />
+          <PlistImageFile Name="p2s30.png" Key="p2s30.png" />
+          <PlistImageFile Name="p2s31.png" Key="p2s31.png" />
+          <PlistImageFile Name="p2s32.png" Key="p2s32.png" />
+          <PlistImageFile Name="p2s33.png" Key="p2s33.png" />
+          <PlistImageFile Name="p2s34.png" Key="p2s34.png" />
+          <PlistImageFile Name="p2s35.png" Key="p2s35.png" />
+          <PlistImageFile Name="p2s36.png" Key="p2s36.png" />
+          <PlistImageFile Name="p2s37.png" Key="p2s37.png" />
+          <PlistImageFile Name="p2s38.png" Key="p2s38.png" />
+          <PlistImageFile Name="p2s39.png" Key="p2s39.png" />
+          <PlistImageFile Name="p2s4.png" Key="p2s4.png" />
+          <PlistImageFile Name="p2s40.png" Key="p2s40.png" />
+          <PlistImageFile Name="p2s41.png" Key="p2s41.png" />
+          <PlistImageFile Name="p2s42.png" Key="p2s42.png" />
+          <PlistImageFile Name="p2s5.png" Key="p2s5.png" />
+          <PlistImageFile Name="p2s6.png" Key="p2s6.png" />
+          <PlistImageFile Name="p2s7.png" Key="p2s7.png" />
+          <PlistImageFile Name="p2s8.png" Key="p2s8.png" />
+          <PlistImageFile Name="p2s9.png" Key="p2s9.png" />
+          <PlistImageFile Name="p3s0.png" Key="p3s0.png" />
+          <PlistImageFile Name="p3s1.png" Key="p3s1.png" />
+          <PlistImageFile Name="p3s10.png" Key="p3s10.png" />
+          <PlistImageFile Name="p3s11.png" Key="p3s11.png" />
+          <PlistImageFile Name="p3s12.png" Key="p3s12.png" />
+          <PlistImageFile Name="p3s13.png" Key="p3s13.png" />
+          <PlistImageFile Name="p3s14.png" Key="p3s14.png" />
+          <PlistImageFile Name="p3s15.png" Key="p3s15.png" />
+          <PlistImageFile Name="p3s16.png" Key="p3s16.png" />
+          <PlistImageFile Name="p3s17.png" Key="p3s17.png" />
+          <PlistImageFile Name="p3s18.png" Key="p3s18.png" />
+          <PlistImageFile Name="p3s19.png" Key="p3s19.png" />
+          <PlistImageFile Name="p3s2.png" Key="p3s2.png" />
+          <PlistImageFile Name="p3s20.png" Key="p3s20.png" />
+          <PlistImageFile Name="p3s21.png" Key="p3s21.png" />
+          <PlistImageFile Name="p3s22.png" Key="p3s22.png" />
+          <PlistImageFile Name="p3s23.png" Key="p3s23.png" />
+          <PlistImageFile Name="p3s24.png" Key="p3s24.png" />
+          <PlistImageFile Name="p3s25.png" Key="p3s25.png" />
+          <PlistImageFile Name="p3s26.png" Key="p3s26.png" />
+          <PlistImageFile Name="p3s27.png" Key="p3s27.png" />
+          <PlistImageFile Name="p3s28.png" Key="p3s28.png" />
+          <PlistImageFile Name="p3s29.png" Key="p3s29.png" />
+          <PlistImageFile Name="p3s3.png" Key="p3s3.png" />
+          <PlistImageFile Name="p3s30.png" Key="p3s30.png" />
+          <PlistImageFile Name="p3s31.png" Key="p3s31.png" />
+          <PlistImageFile Name="p3s32.png" Key="p3s32.png" />
+          <PlistImageFile Name="p3s33.png" Key="p3s33.png" />
+          <PlistImageFile Name="p3s34.png" Key="p3s34.png" />
+          <PlistImageFile Name="p3s35.png" Key="p3s35.png" />
+          <PlistImageFile Name="p3s36.png" Key="p3s36.png" />
+          <PlistImageFile Name="p3s37.png" Key="p3s37.png" />
+          <PlistImageFile Name="p3s38.png" Key="p3s38.png" />
+          <PlistImageFile Name="p3s39.png" Key="p3s39.png" />
+          <PlistImageFile Name="p3s4.png" Key="p3s4.png" />
+          <PlistImageFile Name="p3s40.png" Key="p3s40.png" />
+          <PlistImageFile Name="p3s41.png" Key="p3s41.png" />
+          <PlistImageFile Name="p3s42.png" Key="p3s42.png" />
+          <PlistImageFile Name="p3s5.png" Key="p3s5.png" />
+          <PlistImageFile Name="p3s6.png" Key="p3s6.png" />
+          <PlistImageFile Name="p3s7.png" Key="p3s7.png" />
+          <PlistImageFile Name="p3s8.png" Key="p3s8.png" />
+          <PlistImageFile Name="p3s9.png" Key="p3s9.png" />
+          <PlistImageFile Name="t0.png" Key="t0.png" />
+          <PlistImageFile Name="t1.png" Key="t1.png" />
+          <PlistImageFile Name="t10.png" Key="t10.png" />
+          <PlistImageFile Name="t11.png" Key="t11.png" />
+          <PlistImageFile Name="t12.png" Key="t12.png" />
+          <PlistImageFile Name="t13.png" Key="t13.png" />
+          <PlistImageFile Name="t14.png" Key="t14.png" />
+          <PlistImageFile Name="t15.png" Key="t15.png" />
+          <PlistImageFile Name="t16.png" Key="t16.png" />
+          <PlistImageFile Name="t17.png" Key="t17.png" />
+          <PlistImageFile Name="t18.png" Key="t18.png" />
+          <PlistImageFile Name="t19.png" Key="t19.png" />
+          <PlistImageFile Name="t2.png" Key="t2.png" />
+          <PlistImageFile Name="t20.png" Key="t20.png" />
+          <PlistImageFile Name="t21.png" Key="t21.png" />
+          <PlistImageFile Name="t22.png" Key="t22.png" />
+          <PlistImageFile Name="t23.png" Key="t23.png" />
+          <PlistImageFile Name="t24.png" Key="t24.png" />
+          <PlistImageFile Name="t25.png" Key="t25.png" />
+          <PlistImageFile Name="t26.png" Key="t26.png" />
+          <PlistImageFile Name="t27.png" Key="t27.png" />
+          <PlistImageFile Name="t28.png" Key="t28.png" />
+          <PlistImageFile Name="t29.png" Key="t29.png" />
+          <PlistImageFile Name="t3.png" Key="t3.png" />
+          <PlistImageFile Name="t30.png" Key="t30.png" />
+          <PlistImageFile Name="t31.png" Key="t31.png" />
+          <PlistImageFile Name="t32.png" Key="t32.png" />
+          <PlistImageFile Name="t33.png" Key="t33.png" />
+          <PlistImageFile Name="t34.png" Key="t34.png" />
+          <PlistImageFile Name="t35.png" Key="t35.png" />
+          <PlistImageFile Name="t36.png" Key="t36.png" />
+          <PlistImageFile Name="t37.png" Key="t37.png" />
+          <PlistImageFile Name="t38.png" Key="t38.png" />
+          <PlistImageFile Name="t39.png" Key="t39.png" />
+          <PlistImageFile Name="t4.png" Key="t4.png" />
+          <PlistImageFile Name="t40.png" Key="t40.png" />
+          <PlistImageFile Name="t41.png" Key="t41.png" />
+          <PlistImageFile Name="t42.png" Key="t42.png" />
+          <PlistImageFile Name="t5.png" Key="t5.png" />
+          <PlistImageFile Name="t6.png" Key="t6.png" />
+          <PlistImageFile Name="t7.png" Key="t7.png" />
+          <PlistImageFile Name="t8.png" Key="t8.png" />
+          <PlistImageFile Name="t9.png" Key="t9.png" />
+        </PlistImageFolder>
+        <Project Name="CoverScene.csd" Type="Scene" />
+        <Project Name="Loading.csd" Type="Scene" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>
